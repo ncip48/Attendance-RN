@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "API fro absensi",
+  "main": "server.js",
+  "scripts": {
+    "mulai": "nodemon server.js"
+  },
+  "author": "Herly",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "apollo-server-express": "^2.19.0",
+    "base-64": "^1.0.0",
+    "bcrypt": "^5.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.2",
+    "mysql2": "^2.2.5",
+    "pg": "^8.4.1",
+    "sequelize": "^6.3.5",
+    "sequelize-cli": "^6.2.0"
+  }
+}

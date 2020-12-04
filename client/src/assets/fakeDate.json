@@ -1,0 +1,54 @@
+{
+    "result": "Success loaded",
+    "data" : {
+        "date" : [
+            {
+                "date" : "2020-11-01",
+                "time_awal": "08:00",
+                "time_akhir": "16:00"
+            },
+            {
+                "date" : "2020-11-02",
+                "time_awal": "07:45",
+                "time_akhir": "16:01"
+            },
+            {
+                "date" : "2020-11-03",
+                "time_awal": "08:05",
+                "time_akhir": "15:55"
+            },
+            {
+                "date" : "2020-11-04",
+                "time_awal": "08:01",
+                "time_akhir": "16:10"
+            },
+            {
+                "date" : "2020-11-05",
+                "time_awal": "07:59",
+                "time_akhir": "16:01"
+            },
+            {
+                "date" : "2020-11-06",
+                "time_awal": "07:55",
+                "time_akhir": "16:10"
+            },
+            {
+                "date" : "2020-11-07",
+                "time_awal": "08:00",
+                "time_akhir": "16:00"
+            },
+            {
+                "date" : "2020-11-08",
+                "time_awal": "08:00",
+                "time_akhir": "16:00",
+                "ket": "A"
+            },
+            {
+                "date" : "2020-11-09",
+                "time_awal": "08:00",
+                "time_akhir": "16:00",
+                "ket": "L"
+            },
+        ]
+    }
+}
